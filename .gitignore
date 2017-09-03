@@ -61,4 +61,10 @@ BuildingEscape/Content/StarterContent/
 ######################
 *.VC.db
 
-# testing
+*.VC.db-wal
+
+
+*.VC.db-shm
+
+
+*.VC.opendb
